@@ -1,0 +1,29 @@
+{
+  "title": "Tópico 101.1 Lição 1",
+  "description": "Determinar e definir configurações de hardware",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "title": "Questão 1",
+        "text": "step1/text.md"
+      },
+      {
+        "title": "Questão 2",
+        "text": "step2/text.md"
+      },
+      {
+        "title": "Questão 3",
+        "text": "step3/text.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
