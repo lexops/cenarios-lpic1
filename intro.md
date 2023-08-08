@@ -1,1 +1,0 @@
-Esta lição aborda os conceitos gerais de como o kernel do Linux lida com recursos de hardware, principalmente na arquitetura x86.
